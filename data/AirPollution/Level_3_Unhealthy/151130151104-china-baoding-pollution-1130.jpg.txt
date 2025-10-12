@@ -1,0 +1,3 @@
+https://media.cnn.com/api/v1/images/stellar/prod/151130151104-china-baoding-pollution-1130.jpg?q
+
+Cannot download image; STATUS_CODE_400

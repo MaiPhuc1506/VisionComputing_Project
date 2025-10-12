@@ -1,0 +1,3 @@
+https://media.cnn.com/api/v1/images/stellar/prod/171205091526-01-exercise-older-people-polluted-urban-streets-restricted.jpg?q
+
+Cannot download image; STATUS_CODE_400

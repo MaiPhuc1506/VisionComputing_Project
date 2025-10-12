@@ -1,0 +1,3 @@
+https://media.cnn.com/api/v1/images/stellar/prod/230313125750-04-iqair-worst-air-quality-report-2022-climate-restricted.jpg?c
+
+Cannot download image; STATUS_CODE_400

@@ -1,0 +1,3 @@
+https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183331049.jpg?c
+
+Cannot download image; STATUS_CODE_400
