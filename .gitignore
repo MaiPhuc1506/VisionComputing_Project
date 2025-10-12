@@ -1,0 +1,15 @@
+# Ignore dataset folders
+data/AirPollution/
+data/WaterPollution/
+data/SoilPollution/
+data/NoisePollution/
+
+# Ignore virtual environment
+venv/
+
+# Ignore model checkpoints
+models/*.h5
+
+# Ignore system files
+.DS_Store
+__pycache__/
