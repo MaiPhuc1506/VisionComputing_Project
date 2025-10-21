@@ -1,3 +1,0 @@
-http://news.am/img/news/48/40/12/default.jpg
-
-Cannot download image; Failed to fetch

@@ -1,3 +1,0 @@
-https://i.guim.co.uk/img/media/72c31c357faa278259ac7309ea1782f6a111926e/0_0_4288_2848/master/4288.jpg?width
-
-Cannot download image; STATUS_CODE_401

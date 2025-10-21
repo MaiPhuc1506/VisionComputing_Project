@@ -1,3 +1,0 @@
-https://media.cnn.com/api/v1/images/stellar/prod/151022135937-smog-woman-2-mask-pollution.jpg?q
-
-Cannot download image; STATUS_CODE_400
